@@ -4,9 +4,9 @@ Rocket League bot package for an infinite airdribble model.
 
 ## Preview
 
-<video src="https://github.com/Speedstu/infinite-airdribble-rocket-league-bot/raw/main/ecstaxxy-infinite-airdribble-preview.mp4" controls width="100%"></video>
+![Infinite airdribble preview](preview.gif)
 
-[Download/watch the preview video](https://github.com/Speedstu/infinite-airdribble-rocket-league-bot/raw/main/ecstaxxy-infinite-airdribble-preview.mp4)
+[Download/watch the full MP4 preview](https://github.com/Speedstu/infinite-airdribble-rocket-league-bot/raw/main/ecstaxxy-infinite-airdribble-preview.mp4)
 
 ## Files
 
