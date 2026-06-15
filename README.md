@@ -18,3 +18,4 @@ Rocket League bot package for an infinite airdribble model.
 - Approximate size: 90k parameters
 - Approximate training progress: 1.6B steps
 - Main behavior: infinite airdribble
+- Trained with a simple airdribble state setter and no curriculum learning, so it mostly learned to fly and carry the ball in the air.
