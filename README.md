@@ -1,6 +1,12 @@
-# Ecstaxxy Infinite Airdribble Bot
+# Infinite Airdribble Rocket League Bot
 
-Rocket League bot package for the Ecstaxxy infinite airdribble model.
+Rocket League bot package for an infinite airdribble model.
+
+## Preview
+
+<video src="https://github.com/Speedstu/infinite-airdribble-rocket-league-bot/raw/main/ecstaxxy-infinite-airdribble-preview.mp4" controls width="100%"></video>
+
+[Download/watch the preview video](https://github.com/Speedstu/infinite-airdribble-rocket-league-bot/raw/main/ecstaxxy-infinite-airdribble-preview.mp4)
 
 ## Files
 
@@ -12,4 +18,3 @@ Rocket League bot package for the Ecstaxxy infinite airdribble model.
 - Approximate size: 90k parameters
 - Approximate training progress: 1.6B steps
 - Main behavior: infinite airdribble
-
